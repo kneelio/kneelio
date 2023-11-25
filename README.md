@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on tech elevator enrollment
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on an app
 - 🤔 I’m looking for help with everything at the moment
 - 💬 Ask me about my PC or my puppy
